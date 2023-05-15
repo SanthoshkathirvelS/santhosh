@@ -1,0 +1,103 @@
+@font-face {
+  font-family: "santhosh";
+  src: url(dauphin/Dauphin.ttf);
+}
+h1 {
+  font-family: "santhosh";
+  text-align: center;
+  font-weight: 400;
+  font-size: 70px;
+  line-height: 4px;
+  padding-top: 50px;
+}
+
+h4 {
+  font-size: 15px;
+  line-height: 0px;
+  text-align: center;
+  font-style: italic;
+  font-weight: 400;
+  padding-top: 20px;
+}
+
+h5 {
+  font-size: 13px;
+  line-height: 0.5px;
+  text-align: center;
+  font-weight: 400;
+}
+h2 {
+  font-family: "santhosh";
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.main {
+  height: 710px;
+  width: 700px;
+  /* border: 1px solid; */
+  margin: auto;
+}
+
+.topic {
+  height: 150px;
+  width: 700px;
+  /* border: 1px solid red; */
+}
+
+.content {
+  height: 560px;
+  width: 700px;
+  /* border: 1px solid brown; */
+}
+
+.lefttop {
+  height: 250px;
+  width: 330px;
+  /* border: 1px solid blue; */
+  display: inline-block;
+  margin: auto;
+  text-align: justify;
+  font-family: 'Open Sans',Arial,sans-serif;
+  font-size: 14px;
+    line-height: 20px;
+}
+
+.righttop {
+  height: 250px;
+  width: 340px;
+  /* border: 1px solid green; */
+  display: inline-block;
+  margin: auto;
+  padding-left: 15px;
+  text-align: justify;
+  font-family: 'Open Sans',Arial,sans-serif;
+  font-size: 14px;
+    line-height: 20px;
+}
+
+.leftbottom {
+  height: 250px;
+  width: 340px;
+  /* border: 1px solid yellow; */
+  display: inline-block;
+  margin: auto;
+  text-align: justify;
+  font-family: 'Open Sans',Arial,sans-serif;
+  font-size: 14px;
+    line-height: 20px;
+}
+
+.rightbottom {
+  height: 250px;
+  width: 340px;
+  /* border: 1px solid lawngreen; */
+  display: inline-block;
+  margin: auto;
+  padding-left: 13px;
+  text-align: justify;
+  font-family: 'Open Sans',Arial,sans-serif;
+  font-size: 14px;
+    line-height: 20px;
+}
